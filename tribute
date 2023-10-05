@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tribute to Mum</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+        }
+        .tribute-banner {
+            text-align: center;
+            padding: 50px;
+            color: white;
+            background-color: #007bff;
+        }
+        .tribute-content {
+            margin: 15px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+            padding: 20px;
+        }
+        h1 {
+            font-size: 2em;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.6em;
+        }
+    </style>
+</head>
+<body>
+    <div class="tribute-banner">
+        <h1>A Tribute to My Mum</h1>
+    </div>
+    <div class="tribute-content">
+        <p>Mum, you are the light that guides me even in the darkest nights. Your love, care, and sacrifice have made me who I am today. You taught me to be kind, to be strong, and to always believe in myself.</p>
+        <p>Your strength and resilience inspire me every day. You faced every challenge with a smile and showed me that every problem has a solution.</p>
+        <p>Thank you for your endless love and support. I am grateful for every moment we have shared and look forward to many more. You are my hero, my role model, my mum.</p>
+    </div>
+</body>
+</html>
